@@ -23,7 +23,7 @@ void main() {
 
 
     // --------------------
-    
+    // Ternary operator - Fast if - one line condation 
     print(age > 15 ? (age >= 18 ? 'true' : 'False') : 'Not allowed');
 
 
