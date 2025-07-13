@@ -1,3 +1,4 @@
+// Everything in dart is object
 class Car {
   String name = 'TOYOTA';
 

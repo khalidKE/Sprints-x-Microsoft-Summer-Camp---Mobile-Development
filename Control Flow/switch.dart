@@ -9,7 +9,8 @@ void main() {
     case 4:
       print(num);
       break;
-    case 3:
+      
+    case 3: // fall-through
     case 2:
       print('thanks');
       break;

@@ -1,3 +1,5 @@
+// Dart support Single inheritance
+// mixin ==> Contains a combination of methods from other classes
 mixin Swimmer {
   void swim() {
     print('Swimming...');
